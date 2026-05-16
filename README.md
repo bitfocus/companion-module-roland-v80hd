@@ -46,8 +46,8 @@ This module is currently in beta. It has been tested on physical hardware and is
 | AUX Bus Mute | Confirmed working |
 | Feedback for all polled state | Confirmed working |
 | Test Patterns 12 patterns | Confirmed working |
-| Audio mute feedback via panel | Not working — panel-initiated mute changes are not reflected in feedback |
-| Transition type feedback via panel | Partial — feedback responds to panel activity but state may be inconsistent |
+| Audio mute feedback via panel | Confirmed working |
+| Transition type feedback via panel | Partial |
 | Record | Planned — pending hardware testing |
 | Image Capture to Still | Planned — pending investigation |
 | Scene Memory Load and Save | Planned — future version |
