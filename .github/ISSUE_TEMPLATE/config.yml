@@ -1,9 +1,5 @@
-# This file travels with the code to the released repository, so it must read correctly in both. The
-# bug and feature forms beside it are what people fill in, on either repository: released versions
-# are reported on bitfocus/companion-module-roland-v80hd, development builds on the development
-# repository (CONTRIBUTING.md). The only link here is for faults in Companion itself.
 blank_issues_enabled: false
 contact_links:
   - name: BUG OR FEATURE REQUEST FOR COMPANION ITSELF
     url: https://github.com/bitfocus/companion/issues
-    about: Report it against Companion itself, to get the relevant people notified.
+    about: Report it against the companion itself, to get the relevant people notified.
